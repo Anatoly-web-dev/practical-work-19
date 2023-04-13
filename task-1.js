@@ -7,3 +7,21 @@ function showObjectOwnProperties(obj) {
 		}
 	}
 }
+
+
+
+
+// ____ Проверка работы функции ____
+
+let user = {
+	login: 'default',
+	passwored: 'default',
+}
+
+let student = {
+	nickName: 'default',
+}
+
+Object.setPrototypeOf(student, user);
+
+// showObjectOwnProperties(student);

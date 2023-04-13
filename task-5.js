@@ -162,6 +162,9 @@ const ultrabook = new Laptop(
 	'8GB', '500GB', 'integrated', 'Core i5 AMD 2.2', 'Noname', 2, '14\'\'', '6 hours'
 );
 
+
+// ____ Проверка работы функций ____
+
 // showAllObjectFeatures(personalComputer);
 // showAllObjectFeatures(ultrabook);
 // showAllObjectFeatures(televisor);

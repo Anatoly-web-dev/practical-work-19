@@ -150,7 +150,7 @@ const laptop = new LaptopCharacteristic(
 
 
 
-// _________Проверка__________
+// ____ Проверка работы функций ____
 
 // Выводим все свойства и методы указанного объекта в консоль
 function showAllObjectFeatures(obj) {
